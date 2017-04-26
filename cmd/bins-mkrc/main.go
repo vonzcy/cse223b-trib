@@ -12,7 +12,7 @@ import (
 // For now, we assume that we have sequentially-IP'd hosts that don't span more
 // than one octet.
 const IP_PREFIX = "169.228.66"
-const FIRST_IP = 143
+const FIRST_IP = 153
 const NUM_HOSTS = 10
 
 var (
